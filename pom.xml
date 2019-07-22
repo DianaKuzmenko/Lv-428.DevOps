@@ -233,7 +233,7 @@
 		<repository>
 			<id>org.springframework.maven.snapshot</id>
 			<name>Spring Maven Snapshot Repository</name>
-			<url>http://maven.springframework.org/snapshot</url>
+			<url>http://10.26.34.207:8081/repository/SAMPLE_1/</url>
 			<releases>
 				<enabled>false</enabled>
 			</releases>
@@ -245,7 +245,7 @@
 		<repository>
 			<id>org.springframework.maven.milestone</id>
 			<name>Spring Maven Milestone Repository</name>
-			<url>http://maven.springframework.org/milestone</url>
+			<url>http://10.26.34.207:8081/repository/SAMPLE_1_release/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
